@@ -1,0 +1,24 @@
+{
+  "name": "project-puzzle-automation",
+  "version": "1.0.0",
+  "description": "Automation to copy cards across trello boards/workspaces to facilitate required automation for the Revature Center of Excellence Project Puzzle process",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revature-side-projects/project-puzzle-automation.git"
+  },
+  "author": "IkenoXamos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revature-side-projects/project-puzzle-automation/issues"
+  },
+  "homepage": "https://github.com/revature-side-projects/project-puzzle-automation#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
+}
