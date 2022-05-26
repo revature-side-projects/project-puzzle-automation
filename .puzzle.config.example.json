@@ -1,0 +1,4 @@
+{
+    "appKey": "some appkey from trello",
+    "token": "some sensitive token from trello"
+}
